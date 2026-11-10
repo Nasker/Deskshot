@@ -1,0 +1,164 @@
+{
+  "desktop_count": 3,
+  "windows": [
+    {
+      "identity": {
+        "app": "C:\\Program Files\\WindowsApps\\Mozilla.Firefox_159.0.1.0_x64__n80bbvh6b1yt2\\VFS\\ProgramFiles\\Firefox Package Root\\firefox.exe",
+        "title": "Boards - Boards — Mozilla Firefox",
+        "class_name": "MozillaWindowClass"
+      },
+      "desktop": 2,
+      "placement": {
+        "bounds": {
+          "left": 152,
+          "top": 341,
+          "right": 1035,
+          "bottom": 1026
+        },
+        "state": "maximized",
+        "frame": null
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\Program Files\\WindowsApps\\MSTeams_26288.2004.5269.3420_x64__8wekyb3d8bbwe\\ms-teams.exe",
+        "title": "Chat | Oriol Sala | Microsoft Teams",
+        "class_name": "TeamsWebView"
+      },
+      "desktop": 2,
+      "placement": {
+        "bounds": {
+          "left": 1916,
+          "top": -138,
+          "right": 2980,
+          "bottom": 726
+        },
+        "state": "normal",
+        "frame": {
+          "left": 1913,
+          "top": -389,
+          "right": 3007,
+          "bottom": 898
+        }
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2026.1026.100_x64__8wekyb3d8bbwe\\olk.exe",
+        "title": "Email - Oscar Martinez - Outlook",
+        "class_name": "Outlook Host"
+      },
+      "desktop": 2,
+      "placement": {
+        "bounds": {
+          "left": 1944,
+          "top": -53,
+          "right": 3006,
+          "bottom": 595
+        },
+        "state": "normal",
+        "frame": {
+          "left": 1914,
+          "top": 889,
+          "right": 3006,
+          "bottom": 1537
+        }
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\Users\\oscar.martinez\\AppData\\Local\\Programs\\PyCharm 2026.2.1\\bin\\pycharm64.exe",
+        "title": "AudioLabApps – main_script_runner.py [AudioLabApps]",
+        "class_name": "SunAwtFrame"
+      },
+      "desktop": 1,
+      "placement": {
+        "bounds": {
+          "left": -43,
+          "top": 138,
+          "right": 1887,
+          "bottom": 1228
+        },
+        "state": "maximized",
+        "frame": null
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\ST\\STM32CubeIDE_1.16.1\\STM32CubeIDE\\stm32cubeide.exe",
+        "title": "Projects - EEL-Platform/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c - STM32CubeIDE",
+        "class_name": "SWT_Window0"
+      },
+      "desktop": 0,
+      "placement": {
+        "bounds": {
+          "left": 0,
+          "top": 0,
+          "right": 1050,
+          "bottom": 600
+        },
+        "state": "maximized",
+        "frame": null
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\Users\\oscar.martinez\\AppData\\Local\\Programs\\Warp\\warp.exe",
+        "title": "~\\Documents\\MyWork\\Personal\\deskshot",
+        "class_name": "Window Class"
+      },
+      "desktop": 1,
+      "placement": {
+        "bounds": {
+          "left": 1868,
+          "top": 426,
+          "right": 3148,
+          "bottom": 1226
+        },
+        "state": "normal",
+        "frame": {
+          "left": 1920,
+          "top": 891,
+          "right": 3000,
+          "bottom": 1531
+        }
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.308.620.0_x64__zpdnekdrzrea0\\Spotify.exe",
+        "title": "Desert - Sense tu",
+        "class_name": "Chrome_WidgetWin_1"
+      },
+      "desktop": 2,
+      "placement": {
+        "bounds": {
+          "left": 440,
+          "top": 290,
+          "right": 1383,
+          "bottom": 929
+        },
+        "state": "minimized",
+        "frame": null
+      }
+    },
+    {
+      "identity": {
+        "app": "C:\\Users\\oscar.martinez\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "title": "main.c - Untitled (Workspace) - Visual Studio Code",
+        "class_name": "Chrome_WidgetWin_1"
+      },
+      "desktop": 0,
+      "placement": {
+        "bounds": {
+          "left": 1913,
+          "top": -28,
+          "right": 2977,
+          "bottom": 1020
+        },
+        "state": "maximized",
+        "frame": null
+      }
+    }
+  ]
+}
